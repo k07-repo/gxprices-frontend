@@ -1,0 +1,41 @@
+  .display-block {
+    display: block;
+  }
+  
+  .display-none {
+    display: none;
+  }
+
+  
+
+  div.product-name {
+    font-size: x-large
+  }
+
+
+  table.product, td.product, th.product {
+    border: 1px solid rgb(151, 151, 151);
+  }
+
+  table, td, th {
+    border-collapse: collapse;
+    padding: 10px
+  }
+
+  
+  html {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  select#set-selector {
+    margin-bottom: 8px;
+  }
+
+  input#username, input#password {
+    width: 130px
+  }
+
+form.form  { display: table;    }
+p.form     { display: table-row;  }
+label.form { display: table-cell; text-align: right; padding: 10px; }
+input.form { display: table-cell; }
