@@ -1,3 +1,9 @@
+React frontend for GXPrices (https://gxprices.herokuapp.com).
+
+Everything was added in one commit as I initially had this folder copied to the backend where the repo actually was, and am separating it to put it here.
+
+------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
